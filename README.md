@@ -37,6 +37,30 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 5. Modifique la coleción de POSTMAN con NEWMAN de tal forma que pueda enviar 10 peticiones concurrentes. Verifique los resultados y presente un informe.
 
+Con 10 peticiones concurrentes: 
+
+![Screenshot_1](https://user-images.githubusercontent.com/48091585/80042055-a3cf9180-84c3-11ea-84fe-8b6f6ffac2a4.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/48091585/80042056-a4682800-84c3-11ea-9316-c659997ab86b.png)
+
+![Screenshot_3](https://user-images.githubusercontent.com/48091585/80042058-a500be80-84c3-11ea-9e6f-d82a6e079f7c.png)
+
+![Screenshot_4](https://user-images.githubusercontent.com/48091585/80042059-a500be80-84c3-11ea-8e7b-aaa3c51e9624.png)
+
+![Screenshot_5](https://user-images.githubusercontent.com/48091585/80042061-a500be80-84c3-11ea-930b-2fd69f518e1e.png)
+
+![Screenshot_6](https://user-images.githubusercontent.com/48091585/80042063-a5995500-84c3-11ea-9fd1-6b2e0120d309.png)
+
+![Screenshot_7](https://user-images.githubusercontent.com/48091585/80042064-a5995500-84c3-11ea-9cfb-bd118cc232ec.png)
+
+![Screenshot_8](https://user-images.githubusercontent.com/48091585/80042065-a631eb80-84c3-11ea-9ee8-f22bcd09112d.png)
+
+![Screenshot_9](https://user-images.githubusercontent.com/48091585/80042066-a631eb80-84c3-11ea-84d8-82ffc9e53715.png)
+
+![Screenshot_10](https://user-images.githubusercontent.com/48091585/80042067-a631eb80-84c3-11ea-819a-0ca2cf5904f7.png)
+
+El promedio de tiempo de las peticiones fue de 2min 23segundos.
+
 6. Cree una nueva Function que resuleva el problema de Fibonacci pero esta vez utilice un enfoque recursivo con memoization. Pruebe la función varias veces, después no haga nada por al menos 5 minutos. Pruebe la función de nuevo con los valores anteriores. ¿Cuál es el comportamiento?.
 
 **Preguntas**
@@ -58,23 +82,3 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
   
 * ¿Cómo funciona el sistema de facturación de las Function App?
 * Informe
-
-![Screenshot_1](https://user-images.githubusercontent.com/48091585/80042055-a3cf9180-84c3-11ea-84fe-8b6f6ffac2a4.png)
-
-![Screenshot_2](https://user-images.githubusercontent.com/48091585/80042056-a4682800-84c3-11ea-9316-c659997ab86b.png)
-
-![Screenshot_3](https://user-images.githubusercontent.com/48091585/80042058-a500be80-84c3-11ea-9e6f-d82a6e079f7c.png)
-
-![Screenshot_4](https://user-images.githubusercontent.com/48091585/80042059-a500be80-84c3-11ea-8e7b-aaa3c51e9624.png)
-
-![Screenshot_5](https://user-images.githubusercontent.com/48091585/80042061-a500be80-84c3-11ea-930b-2fd69f518e1e.png)
-
-![Screenshot_6](https://user-images.githubusercontent.com/48091585/80042063-a5995500-84c3-11ea-9fd1-6b2e0120d309.png)
-
-![Screenshot_7](https://user-images.githubusercontent.com/48091585/80042064-a5995500-84c3-11ea-9cfb-bd118cc232ec.png)
-
-![Screenshot_8](https://user-images.githubusercontent.com/48091585/80042065-a631eb80-84c3-11ea-9ee8-f22bcd09112d.png)
-
-![Screenshot_9](https://user-images.githubusercontent.com/48091585/80042066-a631eb80-84c3-11ea-84d8-82ffc9e53715.png)
-
-![Screenshot_10](https://user-images.githubusercontent.com/48091585/80042067-a631eb80-84c3-11ea-819a-0ca2cf5904f7.png)
