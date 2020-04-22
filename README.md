@@ -43,9 +43,12 @@ Cuando un conjunto de usuarios consulta un enésimo número (superior a 1000000)
 
 * ¿Qué es un Azure Function?
 * ¿Qué es serverless?
+    La computación sin servidor es un modelo de ejecución de computación en la nube en el que el proveedor de la nube ejecuta el servidor y administra dinámicamente la asignación de recursos de la máquina. El precio se basa en la cantidad real de recursos consumidos por una aplicación, en lugar de en unidades de capacidad compradas previamente. Puede ser una forma de utilidad informática.
 * ¿Qué es el runtime y que implica seleccionarlo al momento de crear el Function App?
 * ¿Por qué es necesario crear un Storage Account de la mano de un Function App?
+    Es necesario debido a que contiene contiene todos sus objetos de datos de Azure Storage: blobs, archivos, colas, tablas y discos. La cuenta de almacenamiento proporciona un espacio de nombres único para sus datos de Azure Storage al que se puede acceder desde cualquier lugar del mundo a través de HTTP o HTTPS. Los datos en su cuenta de almacenamiento de Azure son duraderos y altamente disponibles, seguros y escalables de forma masiva.
 * ¿Cuáles son los tipos de planes para un Function App?, ¿En qué se diferencias?, mencione ventajas y desventajas de cada uno de ellos.
 * ¿Por qué la memoization falla o no funciona de forma correcta?
+  Esto no funciona correccta debido a que al ejecutar la aplicación se excede el límite de recursión, normalmente suela suceder cuando la operacion se realiza con números muy grandes como lo es en este caso 1000000.
 * ¿Cómo funciona el sistema de facturación de las Function App?
 * Informe
