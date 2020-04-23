@@ -102,5 +102,6 @@ El promedio de tiempo de las peticiones fue de 2min 23segundos.
 * Informe
 
 Podemos evidenciar que al implementar memoization, se reduce el tiempo en un minuto, podemos concluir que es una mejor forma de implementar esta solución
+
 ![Screenshot_11](https://user-images.githubusercontent.com/48091585/80045415-ef3a6d80-84cc-11ea-9bbc-387fc3bddb0c.png)
 
