@@ -63,6 +63,8 @@ El promedio de tiempo de las peticiones fue de 2min 23segundos.
 
 6. Cree una nueva Function que resuleva el problema de Fibonacci pero esta vez utilice un enfoque recursivo con memoization. Pruebe la función varias veces, después no haga nada por al menos 5 minutos. Pruebe la función de nuevo con los valores anteriores. ¿Cuál es el comportamiento?.
 
+![Screenshot_12](https://user-images.githubusercontent.com/48091585/80045596-8b647480-84cd-11ea-8839-643aac739765.png)
+
 **Preguntas**
 
 * ¿Qué es un Azure Function?
@@ -98,3 +100,7 @@ El promedio de tiempo de las peticiones fue de 2min 23segundos.
   La facturacion se basa en dos componentes. El primero es mediante el numero total de ejecuciones solicitadas al mes, y el segundo es mediante el consumo de recurso que se observa, medido en gigabytes por segundo.
   
 * Informe
+
+Podemos evidenciar que al implementar memoization, se reduce el tiempo en un minuto, podemos concluir que es una mejor forma de implementar esta solución
+![Screenshot_11](https://user-images.githubusercontent.com/48091585/80045415-ef3a6d80-84cc-11ea-9bbc-387fc3bddb0c.png)
+
